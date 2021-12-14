@@ -136936,7 +136936,7 @@ exports.Company = Company;
 
 Object.defineProperty(exports, "__esModule", {
   value: true
-});
+}); /// <reference types="@types/google.maps" />
 
 var User_1 = require("./User");
 
