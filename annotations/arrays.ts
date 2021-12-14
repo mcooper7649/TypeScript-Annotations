@@ -4,7 +4,7 @@ const dates = [new Date(), new Date()];
 const carsByMake: string[][] = [['f150'], ['corolla'], ['camaro']];
 
 //Help with inference
-const vehicle = carMakers[0];
+const theCar = carMakers[0];
 
 const myCar = carMakers.pop();
 
