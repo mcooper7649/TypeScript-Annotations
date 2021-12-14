@@ -22,9 +22,9 @@ let truths: boolean[] = [true, true, false];
 
 // Classes
 
-class Car {}
+class Van {}
 
-let car: Car = new Car();
+let van: Van = new Van();
 
 // Object literal
 
